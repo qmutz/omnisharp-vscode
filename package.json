@@ -143,7 +143,7 @@
     "plist": "3.0.1",
     "remap-istanbul": "0.13.0",
     "source-map-support": "0.5.10",
-    "ts-loader": "5.3.3",
+    "ts-loader": "9.4.2",
     "ts-node": "8.0.2",
     "tslint": "5.12.1",
     "tslint-microsoft-contrib": "6.0.0",
@@ -152,8 +152,8 @@
     "unzipper": "0.9.10",
     "vsce": "1.57.0",
     "vscode": "1.1.33",
-    "webpack": "4.29.3",
-    "webpack-cli": "3.2.3"
+    "webpack": "5.75.0",
+    "webpack-cli": "5.0.1"
   },
   "runtimeDependencies": [
     {
